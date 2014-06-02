@@ -1,5 +1,3 @@
-SIMPLE BARCHART
-
 d3 and angular setup and examples
 
 This is a very basic demo using the popular D3 charting library. 
