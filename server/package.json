@@ -1,0 +1,9 @@
+{
+  "name": "D3",
+  "description": "D3 examples",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.2.0"
+  }
+}
